@@ -21,9 +21,7 @@ TO: Susan Jasicki - Milwaukee Fire Department
 
 VIA: email
 
-```
-Ms. Jasicki, Thank you for your time this afternoon. As we discussed over the phone, I've attached a request for the information we're looking for. I look forward to hearing back. Thanks, again.
-```
+`Ms. Jasicki, Thank you for your time this afternoon. As we discussed over the phone, I've attached a request for the information we're looking for. I look forward to hearing back. Thanks, again.`
 
 ATTACHMENTS: [Original Request](https://drive.google.com/file/d/0B2qru3lnKLbCMGZpaFMzNHFBOXc/view?usp=sharing)
 
@@ -49,9 +47,7 @@ TO: -
 
 VIA: phone OR email
 
-```
-
-```
+``
 
 ATTACHMENTS: []()
 
