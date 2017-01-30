@@ -16,7 +16,7 @@ Rules to follow:
 
 Oh, and thank you for submitting your open records request, sharing it with the Community Database and posting your log online! 
 
-## Open Records Request Communication Log
+## OPEN RECORDS REQUEST COMMUNICATION LOG
 
 ### 10/26/2016
 ##### FROM: Jabril Faraj - Reporter, Milwaukee Neighborhood News Service
