@@ -17,11 +17,11 @@ Oh, and thank you for submitting your open records request, sharing it with the 
 ## Open Records Request Communication Log
 
 ### 10/26/2016
-#### FROM: Jabril Faraj - Reporter, Milwaukee Neighborhood News Service
+###### FROM: Jabril Faraj - Reporter, Milwaukee Neighborhood News Service
 
-#### TO: Susan Jasicki - Milwaukee Fire Department 
+###### TO: Susan Jasicki - Milwaukee Fire Department 
 
-VIA: email
+###### VIA: email
 
 `Ms. Jasicki, Thank you for your time this afternoon. As we discussed over the phone, I've attached a request for the information we're looking for. I look forward to hearing back. Thanks, again.`
 
@@ -29,11 +29,11 @@ VIA: email
 
 ### MM/DD/YYYY
 
-#### FROM: - 
+###### FROM: - 
 
-#### TO: - 
+###### TO: - 
 
-#### VIA: phone OR email
+###### VIA: phone OR email
 
 ``
 
