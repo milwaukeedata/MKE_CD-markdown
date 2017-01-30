@@ -4,6 +4,7 @@ Open Records Communication Log w/ Markup
 This is a simple guide/outline for how to post a communication log on GitHub or the [Milwaukee Community Database](http://mkecommunitydata.com) that will let people know what the communication history is for your open records requests.
 
 Rules to follow:
+
 0. This format will help others scrape this content effectively. Please follow the guideline!
 0. 5 or 6 of the "--" will indicate the beginning of a note, and should be the date witha MM/DD/YYYY format.
 0. The line with Method and From should always be the same format: "FROM: personsNameHere - personsOrganization", then next line, "TO: personsName - organizationName", then next line, "VIA: email (or phone)", without the quotes.
