@@ -41,26 +41,3 @@ Oh, and thank you for submitting your open records request, sharing it with the 
 
 ##### ATTACHMENTS: []()
 
-### MM/DD/YYYY
-
-##### FROM: - 
-
-##### TO: - 
-
-##### VIA: phone OR email
-
-``
-
-##### ATTACHMENTS: []()
-
-### MM/DD/YYYY
-
-##### FROM: - 
-
-##### TO: - 
-
-##### VIA: phone OR email
-
-``
-
-##### ATTACHMENTS: []()
