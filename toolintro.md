@@ -1,8 +1,7 @@
-
-MKE Community Database - DATASET & RESOURCE Introduction
+MKE Community Database - TOOL Introduction
 =============
 
-This is a simple guide/outline for how to introduce a dataset or a data resource on the [Milwaukee Community Database](http://mkecommunitydata.com) that will make it easier for people to know what the data is, how to use it and how it was obtained. 
+This is a simple guide/outline for how to introduce a tool on the [Milwaukee Community Database](http://mkecommunitydata.com) that will make it easier for people to know what the data is, how to use it and how it was obtained. 
 
 Rules to follow:
 
