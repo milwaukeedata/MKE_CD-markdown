@@ -1,5 +1,5 @@
 
-MKE Community Database - DATASET OPEN RECORD COMMUNICATION LOG
+MKE Community Database - DATASET Introduction
 =============
 
 This is a simple guide/outline for how to post a content and an open records communication log on GitHub or the [Milwaukee Community Database](http://mkecommunitydata.com) that will let people know what the communication history is for your open records requests.
@@ -17,28 +17,14 @@ Rules to follow:
 
 Oh, and thank you for submitting your open records request, sharing it with the Community Database and posting your log online! 
 
-## OPEN RECORDS REQUEST COMMUNICATION LOG
+## INTRODUCTION
 
-### 10/26/2016
-*FROM:* Jabril Faraj - Reporter, Milwaukee Neighborhood News Service
+This file was obtained through an open records request. 
 
-*TO:* Susan Jasicki - Milwaukee Fire Department 
+## OFFICIAL TEXT
 
-*VIA:* email
+`"This is an official piece of software."`
 
-`Ms. Jasicki, Thank you for your time this afternoon. As we discussed over the phone, I've attached a request for the information we're looking for. I look forward to hearing back. Thanks, again.`
+## CAUTIONS
 
-#### ATTACHMENTS: [Original Request](https://drive.google.com/file/d/0B2qru3lnKLbCMGZpaFMzNHFBOXc/view?usp=sharing)
-
-### MM/DD/YYYY
-
-*FROM:* - 
-
-*TO:* - 
-
-*VIA:* phone OR email
-
-``
-
-#### ATTACHMENTS: []()
 
