@@ -18,7 +18,7 @@ Oh, and thank you for submitting your open records request, sharing it with the 
 
 This file was obtained through an open records request. 
 
-*What Questions might this answer?*
+**What Questions might this answer?**
 
 0. What can I do with this?
 
