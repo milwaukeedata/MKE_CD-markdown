@@ -1,7 +1,7 @@
-Open Records Communication Log w/ Markup
+MKE Community Database - DATASET OPEN RECORD COMMUNICATION LOG
 =============
 
-This is a simple guide/outline for how to post a communication log on GitHub or the [Milwaukee Community Database](http://mkecommunitydata.com) that will let people know what the communication history is for your open records requests.
+This is a simple guide/outline for how to post a content and an open records communication log on GitHub or the [Milwaukee Community Database](http://mkecommunitydata.com) that will let people know what the communication history is for your open records requests.
 
 Rules to follow:
 
@@ -19,25 +19,25 @@ Oh, and thank you for submitting your open records request, sharing it with the 
 ## OPEN RECORDS REQUEST COMMUNICATION LOG
 
 ### 10/26/2016
-##### FROM: Jabril Faraj - Reporter, Milwaukee Neighborhood News Service
+*FROM:* Jabril Faraj - Reporter, Milwaukee Neighborhood News Service
 
-##### TO: Susan Jasicki - Milwaukee Fire Department 
+*TO:* Susan Jasicki - Milwaukee Fire Department 
 
-##### VIA: email
+*VIA:* email
 
 `Ms. Jasicki, Thank you for your time this afternoon. As we discussed over the phone, I've attached a request for the information we're looking for. I look forward to hearing back. Thanks, again.`
 
-##### ATTACHMENTS: [Original Request](https://drive.google.com/file/d/0B2qru3lnKLbCMGZpaFMzNHFBOXc/view?usp=sharing)
+#### ATTACHMENTS: [Original Request](https://drive.google.com/file/d/0B2qru3lnKLbCMGZpaFMzNHFBOXc/view?usp=sharing)
 
 ### MM/DD/YYYY
 
-##### FROM: - 
+*FROM:* - 
 
-##### TO: - 
+*TO:* - 
 
-##### VIA: phone OR email
+*VIA:* phone OR email
 
 ``
 
-##### ATTACHMENTS: []()
+#### ATTACHMENTS: []()
 
