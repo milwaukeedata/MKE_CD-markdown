@@ -13,18 +13,18 @@ Rules to follow:
 
 Oh, and thank you for submitting your open records request, sharing it with the Community Database and posting your log online! 
 
-## What questions this might answer:
+## QUESTIONS this tool might answer:
 
 0. What can I do with this?
 
-### DATA NOTES
+## NOTES on the tool from the Community Database:
 
 This file was obtained through an open records request. 
 
-### OFFICIAL TEXT
+## OFFICIAL STATEMENT from the source on this tool:
 
 `"This is an official piece of software."`
 
-### CAUTIONS
+## WARNINGS and cautions of using this tool:
 
 This information may not be correct.
