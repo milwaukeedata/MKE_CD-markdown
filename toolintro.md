@@ -13,18 +13,18 @@ Rules to follow:
 
 Oh, and thank you for submitting your open records request, sharing it with the Community Database and posting your log online! 
 
-## INTRODUCTION
-
-This file was obtained through an open records request. 
-
-**What Questions this might answer:**
+## What questions this might answer:
 
 0. What can I do with this?
 
-## OFFICIAL TEXT
+### DATA NOTES
+
+This file was obtained through an open records request. 
+
+### OFFICIAL TEXT
 
 `"This is an official piece of software."`
 
-## CAUTIONS
+### CAUTIONS
 
 This information may not be correct.
