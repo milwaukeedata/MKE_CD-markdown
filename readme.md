@@ -11,3 +11,6 @@ This is a simple guide/outline for how to post a content and an open records com
 
 [TOOL - Introduction & Notes](https://github.com/milwaukeedata/MKE_CD-markdown/blob/master/toolintro.md)
 ----------
+
+[QUESTIONS - Common Questions the Community Database Can Answer](https://github.com/milwaukeedata/MKE_CD-markdown/blob/master/questions.md)
+----------
