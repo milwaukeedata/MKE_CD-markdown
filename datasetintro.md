@@ -19,6 +19,10 @@ Oh, and thank you for submitting your open records request, sharing it with the 
 
 0. What can I do with this?
 
+## WARNINGS and cautions of using this data:
+
+This information may not be correct.
+
 ## NOTES on the data from the Community Database:
 
 This file was obtained through an open records request. 
@@ -26,7 +30,3 @@ This file was obtained through an open records request.
 ## OFFICIAL STATEMENT from the source on this data:
 
 `"This is an official data source."`
-
-## WARNINGS and cautions of using this data:
-
-This information may not be correct.
