@@ -40,4 +40,3 @@ Oh, and thank you for submitting your open records request, sharing it with the 
 ``
 
 ###### ATTACHMENTS: []()
-
