@@ -15,18 +15,18 @@ Rules to follow:
 Oh, and thank you for submitting your open records request, sharing it with the Community Database and posting your log online! 
 
 
-## QUESTIONS this data might answer:
+#### QUESTIONS this data might answer:
 
 0. What can I do with this?
 
-## WARNINGS and cautions of using this data:
+#### WARNINGS and cautions of using this data:
 
 This information may not be correct.
 
-## NOTES on the data from the Community Database:
+#### NOTES on the data from the Community Database:
 
 This file was obtained through an open records request. 
 
-## OFFICIAL STATEMENT from the source on this data:
+#### OFFICIAL STATEMENT from the source on this data:
 
 `"This is an official data source."`
