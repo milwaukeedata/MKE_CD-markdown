@@ -17,6 +17,10 @@ Oh, and thank you for submitting your open records request, sharing it with the 
 
 0. What can I do with this?
 
+## WARNINGS and cautions of using this tool:
+
+This information may not be correct.
+
 ## NOTES on the tool from the Community Database:
 
 This file was obtained through an open records request. 
@@ -24,7 +28,3 @@ This file was obtained through an open records request.
 ## OFFICIAL STATEMENT from the source on this tool:
 
 `"This is an official piece of software."`
-
-## WARNINGS and cautions of using this tool:
-
-This information may not be correct.
