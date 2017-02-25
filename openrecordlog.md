@@ -16,9 +16,9 @@ Rules to follow:
 
 Oh, and thank you for submitting your open records request, sharing it with the Community Database and posting your log online! 
 
-## OPEN RECORDS REQUEST COMMUNICATION LOG
+#### OPEN RECORDS REQUEST COMMUNICATION LOG
 
-### 10/26/2016
+##### 10/26/2016
 *FROM:* Jabril Faraj - Reporter, Milwaukee Neighborhood News Service
 
 *TO:* Susan Jasicki - Milwaukee Fire Department 
@@ -27,9 +27,9 @@ Oh, and thank you for submitting your open records request, sharing it with the 
 
 `Ms. Jasicki, Thank you for your time this afternoon. As we discussed over the phone, I've attached a request for the information we're looking for. I look forward to hearing back. Thanks, again.`
 
-#### ATTACHMENTS: [Original Request](https://drive.google.com/file/d/0B2qru3lnKLbCMGZpaFMzNHFBOXc/view?usp=sharing)
+###### ATTACHMENTS: [Original Request](https://drive.google.com/file/d/0B2qru3lnKLbCMGZpaFMzNHFBOXc/view?usp=sharing)
 
-### MM/DD/YYYY
+##### MM/DD/YYYY
 
 *FROM:* - 
 
@@ -39,5 +39,5 @@ Oh, and thank you for submitting your open records request, sharing it with the 
 
 ``
 
-#### ATTACHMENTS: []()
+###### ATTACHMENTS: []()
 
